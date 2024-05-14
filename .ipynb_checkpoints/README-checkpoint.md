@@ -18,3 +18,6 @@ Diving into Sydney Suburbs Reviews Dataset:
 [Sydney Suburbs Reviews](https://www.kaggle.com/code/lhy021/sydney-suburbs-reviews-eda?kernelSessionId=173144423%5D&kernelSessionId=173144423)
 - Exploring Kaggle's Sydney suburb dataset, I delved into Chinese communities, analyzing population, housing prices, and pinpointing top-value areas using Pandas' native plotting.
 - Key findings suggest Carlingford, Campsie, and Hurstville stand out as prime locations for Chinese-centric living, while nuances in perceptions and housing affordability surface, particularly in areas like Chatswood.
+
+
+[Australia's Trade](https://public.tableau.com/views/rubix2_16390087559300/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
