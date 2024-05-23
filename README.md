@@ -1,8 +1,8 @@
 # Data Analytics work collection
-## Pandas
-### Kaggle
-
-[**My Kaggle Public Profile**][defkp]
+# Pandas
+## Kaggle
+![alt text](https://cdn-1.webcatalog.io/catalog/kaggle/kaggle-icon-filled-256.png?v=1714774852207)\
+[My Kaggle Public Profile][defkp]
 
 **Canada vs Australia Immigration Data Analysis**
 - This project analyzes Australian and Canadian immigration datasets using Pandas' plot function to guide EDA and reveal insights. Detailed findings on immigration trends are available via the below link.
@@ -19,15 +19,17 @@ Kaggle: [Countries by Steel Production: 1967-2021][defk2]
 
 **Diving into Sydney Suburbs Reviews**
 - Exploring Kaggle's Sydney suburb dataset, I delved into Chinese communities, analyzing population, housing prices, and pinpointing top-value areas using Pandas' native plotting.
-- Key findings suggest Carlingford, Campsie, and Hurstville stand out as prime locations for Chinese-centric living, while nuances in perceptions and housing affordability surface, particularly in areas like Chatswood.
+- Key findings suggest Carlingford, Campsie, and Hurstville stand out as prime locations for Chinese-centric living, while nuances in perceptions and housing affordability surface, particularly in areas like Chatswood.\
 
 Kaggle: [Sydney Suburbs Reviews][defk1]
-### Jupyter Notebook
+## Jupyter Notebook
+During my tenure at Forrest Contact, I created numerous Jupyter notebooks to analyze, assure data quality, and manipulate data. While these projects are confidential, they're stored in my GitHub. I transitioned from Jupyter Lab to Microsoft Visual Studio Code for efficiency and developed Python modules for streamlined analysis within Jupyter notebooks.\
+modules: [data_cleaning][defjup]
+# Business Intelligence
+## Tableau
+![alt text](https://cdn-1.webcatalog.io/catalog/tableau/tableau-icon-filled-256.png?v=1713189843806)\
 
-## Business Intelligence
-### Tableau
-
-[**My Tableau Public Profile**][deftp]
+[My Tableau Public Profile][deftp]
 
 **Countries with the Highest CO2 Emission**
 
@@ -57,17 +59,17 @@ Tableau Public: [Australia's Global Trade Dynamics: Exploring Partnerships by Co
 - Explore a glimpse of global steel production trends over the past five decades, witnessing China's remarkable ascent to global dominance within the dataset derived from a Kaggle project on countries' steel production.
 
 Tableau Public: [Countries by Steel Production][deft1]
-### Power BI
+## Power BI
 
 
 
-## Data Integration
-### Alteryx
-### FME
+# Data Integration
+## Alteryx
+## FME
 
-## Others
-### Version Control
-### IDE
+# Others
+## Version Control
+## IDE
 
 [defkp]: https://www.kaggle.com/lhy021
 [defk3]: https://www.kaggle.com/code/lhy021/au-and-ca-immigration-eda?kernelSessionId=179043310
@@ -79,3 +81,4 @@ Tableau Public: [Countries by Steel Production][deft1]
 [deft1]: https://public.tableau.com/views/CountriesbySteelProduction/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 [deft2]: https://public.tableau.com/views/AustraliasTradeInsightsExploringExportandImportTrends/ExportandImportTrends?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 [deft3]: https://public.tableau.com/views/AustraliasGlobalTradeDynamicsExploringPartnershipsbyCountry/PartnershipsbyCountry?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+[defjup]: https://github.com/lhy-021/Forrest-Contact/tree/02d06e5756aebcf21cb04f5ede2793cd049ac393/modules
