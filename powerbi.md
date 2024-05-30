@@ -6,6 +6,9 @@ During my tenure at Macquarie University, I played a key role in developing and 
 To ensure confidentiality, the included images have been processed and blurred.
 
 ![alt text](/img/map.PNG)
+
 ![alt text](/img/md_admin.PNG)
+
 ![alt text](/img/proforma.PNG)
+
 ![alt text](/img/timetable.PNG)
