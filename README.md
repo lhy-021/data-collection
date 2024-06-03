@@ -108,9 +108,13 @@ While many DBMS providers offer data integration capabilities, specialized tools
 ### FME by Safe Software
 ![alt text][deffmeimg]\
 I have over 10 years of experience using FME by Safe Software. Originally a geospatial tool, FME has evolved into a comprehensive ETL software. I've used it at three different organizations, developing over 100 data workflows to automate data pipelines and transformations. My work with FME includes advanced features such as scheduling, server management, and batch processing.
+
+[FME by Safe Software Project Showcase](etl.md)
 ### Alteryx
 ![alt text][defalteryximg]\
 While at Macquarie University, I used Alteryx, an ETL software with design and functionality similar to FME. In today's competitive market, many ETL tools adopt successful features from each other. I designed and maintained over 50 data workflows using Alteryx, enhancing data integration and automation.
+
+[Alteryx Project Showcase](etl.md)
 
 [Back to top](#top)
 # Others  <a id="other"></a>
