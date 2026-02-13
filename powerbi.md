@@ -1,14 +1,27 @@
-# Power BI Project Showcase
-**BI Projects at Macquarie University**
+---
+layout: default
+title: Power BI Showcase
+---
 
-During my tenure at Macquarie University, I played a key role in developing and maintaining a suite of BI projects utilizing various technologies such as Azure SQL Database, Alteryx, and Power BI. These projects catered to a diverse audience including students, staff, and academics within the faculty. The delivered products consisted of a series of Power BI visualization tools, enabling users to interact with timetable, test results, and class information data effectively.
+## Power BI (confidential work)
 
-To ensure confidentiality, the included images have been processed and blurred.
+**Context:** Built and maintained faculty-facing BI products at Macquarie University.
 
-![alt text](/img/map.PNG)
+### What I delivered
+- Interactive reporting for timetables, test results, and class information
+- Data modeling + refresh-ready datasets for self-service consumption
+- Stakeholder support (iterate visuals, definitions, filters)
 
-![alt text](/img/md_admin.PNG)
+### How I worked
+- Source systems → curated tables → semantic model → report pages
+- Data QA checks before publish; consistent KPI definitions
 
-![alt text](/img/proforma.PNG)
+<details>
+  <summary>Screenshots (blurred)</summary>
 
-![alt text](/img/timetable.PNG)
+  ![map](/img/map.PNG)
+  ![admin](/img/md_admin.PNG)
+  ![proforma](/img/proforma.PNG)
+  ![timetable](/img/timetable.PNG)
+
+</details>
