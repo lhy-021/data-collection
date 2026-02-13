@@ -1,8 +1,7 @@
-# _config.yml (replace yours)
 title: Jonathan Jiang
-description: Data Analyst portfolio — Python, SQL, BI, and data pipelines.
+description: Data Analyst portfolio — SQL, Python, BI, and data pipelines.
 theme: jekyll-theme-minimal
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-logo: /img/logo.png   # or move to /assets/img and update path
