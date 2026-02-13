@@ -1,24 +1,40 @@
-# Alteryx Project Showcase
-**Alteryx Projects at Macquarie University**
+---
+layout: default
+title: ETL Showcase
+---
 
-During my tenure at Macquarie University, I played a key role in developing and maintaining a suite of BI projects utilizing various technologies such as Azure SQL Database, Alteryx, and Power BI. These projects catered to a diverse audience including students, staff, and academics within the faculty. The delivered products consisted of a series of Power BI visualization tools, enabling users to interact with timetable, test results, and class information data effectively.
+## Alteryx (confidential work)
 
-To ensure confidentiality, the included images have been processed and blurred.
+**Context:** Automation and data preparation workflows supporting BI delivery.
 
-![alt text](/img/a-1.PNG)
+### What I built
+- Repeatable workflows for cleaning, joining, and exporting datasets
+- Scheduled/standardized refresh outputs for reporting pipelines
 
-![alt text](/img/a-2.PNG)
+<details>
+  <summary>Workflow screenshots (blurred)</summary>
 
-![alt text](/img/a-3.PNG)
+  ![a1](/img/a-1.PNG)
+  ![a2](/img/a-2.PNG)
+  ![a3](/img/a-3.PNG)
+  ![a4](/img/a-4.PNG)
 
-![alt text](/img/a-4.PNG)
+</details>
 
-# FME Project Showcase
+---
 
-![alt text](/img/find-playgrounds-workflow.png)
+## FME
 
-![alt text](/img/medium-density-location-workflow.PNG)
+### What I built
+- ETL pipelines that validate/transform datasets and generate deliverables
+- QA/automation workflows to reduce manual GIS/data prep work
 
-![alt text](/img/topo-audit-RU1-workflow.png)
+<details>
+  <summary>Workflow screenshots</summary>
 
-![alt text](/img/topo-audit-RU2-workflow.png)
+  ![find-playgrounds](/img/find-playgrounds-workflow.png)
+  ![medium-density](/img/medium-density-location-workflow.PNG)
+  ![topo-audit-1](/img/topo-audit-RU1-workflow.png)
+  ![topo-audit-2](/img/topo-audit-RU2-workflow.png)
+
+</details>
